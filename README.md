@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=social)](https://www.linkedin.com/in/cristiancamiloalzateramirez/)
 [![Sitio Web](https://img.shields.io/badge/Sitio%20Web-FF7F00?logo=googlechrome&style=social)](https://cristiancamiloalzateramirez.co)
 
-Soy Cristian Camilo Alzate Ramírez. Nací el 6 de enero del 2000 en el hermoso municipio de El Carmen de Viboral (Antioquia, Colombia). Soy ingeniero de sistemas y desde joven he sentido una profunda pasión por las matemáticas, la tecnología, la programación el internet. A lo largo de mi carrera, me he especializado en el desarrollo de software, especialmente en aplicaciones web. Como profesional independiente, trabajo a diario para seguir cultivando el propósito de generar un impacto que beneficie al mundo con la creación de herramientas creativas e innovadoras.
+Soy Cristian Camilo Alzate Ramírez. Nací el 6 de enero del 2000 en el hermoso municipio de El Carmen de Viboral (Antioquia, Colombia). Soy ingeniero de sistemas y desde joven he sentido una profunda pasión por las matemáticas, la tecnología, la programación y el internet. A lo largo de mi carrera, me he especializado en el desarrollo de software, especialmente en aplicaciones web. Como profesional independiente, trabajo a diario para seguir cultivando el propósito de generar un impacto que beneficie al mundo con la creación de herramientas creativas e innovadoras.
 - [📹 Tutoriales](https://www.youtube.com/@criscamideas)
 - [📖 Articulos](https://cristiancamiloalzateramirez.co/blog)
 - [🎙 Podcast](https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM)
