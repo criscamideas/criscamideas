@@ -11,7 +11,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&style=social)](https://www.tiktok.com/@criscamideas/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&style=social)](https://discord.gg/bYeKGgRjxn)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=social)](https://github.com/criscamideas/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&label)](https://www.linkedin.com/in/cristiancamiloalzateramirez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=social)](https://www.linkedin.com/in/cristiancamiloalzateramirez/)
 [![Sitio Web](https://img.shields.io/badge/Sitio%20Web-FF7F00?logo=googlechrome&style=social)](https://cristiancamiloalzateramirez.co)
 
 Soy Cristian Camilo Alzate Ramírez. Nací el 6 de enero del 2000 en el hermoso municipio de El Carmen de Viboral (Antioquia, Colombia). Soy ingeniero de sistemas y desde joven he sentido una profunda pasión por las matemáticas, la tecnología, la programación y el internet. A lo largo de mi carrera, me he especializado en el desarrollo de software, especialmente en la construcción de aplicaciones web. Como profesional independiente, trabajo a diario para seguir cultivando el propósito de generar un impacto que beneficie al mundo con la creación de herramientas creativas e innovadoras.
