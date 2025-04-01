@@ -2,7 +2,7 @@
 
 ### Desarrollador de software y creador de contenido
 
-<img src="./assets/banner-welcome.jpg" width="100%">
+<img src="./banner-welcome.jpg" width="100%">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=social)](https://www.facebook.com/criscamideas/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&style=social)](https://twitter.com/criscamideas/)
