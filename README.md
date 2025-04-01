@@ -1,6 +1,6 @@
 # Hola, Soy **Cristian Camilo Alzate Ramirez** 👋
 
-### Ingeniero Independiente en Desarrollo Web 💻
+### Desarrollador de software y creador de contenido
 
 <img src="./assets/images/brand/banner-main.jpg" width="100%" height="auto">
 
