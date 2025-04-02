@@ -1,6 +1,6 @@
 # Hola, Soy **Cristian Camilo Alzate Ramirez** 👋
 
-### Desarrollador de software y creador de contenido
+### Desarrollador de software
 
 <img src="./banner-welcome.jpg" width="100%">
 
