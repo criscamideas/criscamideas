@@ -4,13 +4,6 @@
 
 Soy **Ingeniero de sistemas** apasionado por las matemáticas, la programación y la tecnología. Nací en el hermoso municipio de El Carmen de Viboral (Antioquia, Colombia), y mi curiosidad por el mundo del internet comenzó desde muy joven. A lo largo de mi carrera, he encontrado mi vocación en el desarrollo de software, especialmente en la construccion de aplicaciones web. Como profesional independiente, trabajo a diario para seguir cultivando el propósito de generar un impacto que beneficie al mundo con la creación de herramientas creativas e innovadoras.
 
-### 📚 **Recursos**
-
-- [📹 Tutoriales](https://www.youtube.com/@criscamideas)
-- [📖 Articulos](https://cristiancamiloalzateramirez.co/blog)
-- [🎙 Podcast](https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM)
-- [💻 Proyectos](https://cristiancamiloalzateramirez.co/portafolio)
-
 ### 📬 **Buzón Público**
 
 Si tienes una idea, un proyecto o una pregunta, ¡estaré encantado de ayudarte! No dudes en contactarme por correo electrónico: [ccalzateramirez@gmail.com](mailto:ccalzateramirez@gmail.com). Responderé lo antes posible.
