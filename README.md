@@ -1,4 +1,4 @@
-# Hola, Soy **Cristian Camilo Alzate Ramirez** 👋
+# Hola, mi nombre es: **Cristian Camilo Alzate Ramirez** 👋
 
 <img src="./banner-welcome.jpg" width="100%">
 
