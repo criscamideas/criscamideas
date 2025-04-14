@@ -2,7 +2,7 @@
 
 <img src="./banner-welcome.jpg" width="100%">
 
-Soy un **ingeniero de sistemas** apasionado por las matemáticas, la tecnología y la programación. Nací en el hermoso municipio de El Carmen de Viboral (Antioquia, Colombia), y mi curiosidad por el mundo del internet comenzó desde muy joven. A lo largo de mi carrera, he encontrado mi vocación en el desarrollo de software, especialmente en la construccion de aplicaciones web. Como profesional independiente, trabajo a diario para seguir cultivando el propósito de generar un impacto que beneficie al mundo con la creación de herramientas creativas e innovadoras.
+Nací el 6 de enero de 2000 en el hermoso municipio de El Carmen de Viboral (Antioquia, Colombia). Soy **ingeniero de sistemas**, apasionado por las matemáticas, la tecnología, la programación y el mundo del internet. A lo largo de mi carrera, me he especializado en el campo del desarrollo de software, especialmente en la construcción de aplicaciones web. Como profesional independiente, me esfuerzo cada día por cultivar este propósito de vida impactar positivamente al mundo con la creación de soluciones creativas e innovadoras.
 
 ### 📬 **Buzón Público**
 
