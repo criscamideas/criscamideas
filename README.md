@@ -6,7 +6,7 @@ Nací en el hermoso municipio de El Carmen de Viboral (Antioquia, Colombia). Soy
 
 ### 📬 **Buzón Público**
 
-Si tienes una idea, un proyecto o una pregunta, ¡estaré encantado de ayudarte! No dudes en contactarme por correo electrónico: [ccalzateramirez@gmail.com](mailto:ccalzateramirez@gmail.com). Responderé lo antes posible.
+¿Tienes una idea, un proyecto o alguna pregunta? ¡Estoy aquí para ayudarte! No dudes en contactarme por correo electrónico: [ccalzateramirez@gmail.com](mailto:ccalzateramirez@gmail.com). Te responderé lo antes posible.
 
 ### 🛠️ Conjunto de Habilidades
 
