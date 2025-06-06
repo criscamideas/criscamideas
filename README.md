@@ -1,6 +1,6 @@
-# Hola, mi nombre es **Cristian Camilo Alzate Ramirez** 👋
-
 <img src="./banner-welcome.jpg" width="100%">
+
+# Hola, mi nombre es **Cristian Camilo Alzate Ramirez** 👋
 
 Nací en el hermoso municipio de El Carmen de Viboral (Antioquia, Colombia). Soy **ingeniero de sistemas**, apasionado por las matemáticas, la tecnología, la programación y el mundo del internet. A lo largo de mi carrera, me he especializado en el campo del desarrollo de software, especialmente en la construcción de aplicaciones web. Como profesional independiente, me esfuerzo cada día por cultivar este propósito de vida impactar positivamente al mundo con la creación de soluciones creativas e innovadoras.
 
