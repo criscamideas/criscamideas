@@ -23,8 +23,6 @@ Si tienes una idea, un proyecto o una pregunta, estaré encantado de ayudarte. N
 **Backend:**<br>
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)
-
-**Bases de datos:**<br>
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
 **Herramientas:**<br>
