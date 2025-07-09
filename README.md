@@ -1,4 +1,4 @@
-<img src="./banner.png" width="100%">
+<img src="./banner.png" alt="Banner" width="100%" style="border-radius:12px;">
 
 # 🤓 Sobre Mi
 
