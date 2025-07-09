@@ -1,12 +1,8 @@
 <img src="./banner.png" alt="Banner" width="100%" style="border-radius:12px;">
 
-# 🤓 Sobre Mi
+# Sobre Mi
 
 Nací en el hermoso municipio de El Carmen de Viboral (Antioquia, Colombia). Soy **ingeniero de sistemas**, apasionado por las matemáticas, la tecnología, la programación y el mundo del internet. A lo largo de mi carrera, me he especializado en el campo del desarrollo de software, especialmente en la construcción de aplicaciones web. Como profesional independiente, me esfuerzo cada día por cultivar este propósito de vida impactar positivamente al mundo con la creación de soluciones creativas e innovadoras.
-
-### 📬 **Buzón Público**
-
-Si tienes una idea, un proyecto o una pregunta, estaré encantado de ayudarte. No dudes en ponerte en contacto por correo electrónico: [ccalzateramirez@gmail.com](mailto:ccalzateramirez@gmail.com) conmigo te responderé lo antes posible.
 
 ### 🛠️ Conjunto de Habilidades
 
