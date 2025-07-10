@@ -2,7 +2,11 @@
 
 # Sobre Mi
 
-Nací en el hermoso municipio de El Carmen de Viboral (Antioquia, Colombia). Soy **ingeniero de sistemas**, apasionado por las matemáticas, la tecnología, la programación y el mundo del internet. A lo largo de mi carrera, me he especializado en el campo del desarrollo de software, especialmente en la construcción de aplicaciones web. Como profesional independiente, me esfuerzo cada día por cultivar este propósito de vida impactar positivamente al mundo con la creación de soluciones creativas e innovadoras.
+Mi nombre es Cristian Camilo Alzate Ramírez, desarrollador de software independiente. Aprendí de forma autodidacta y encontré en la tecnología, la informática y las matemáticas una pasión que hoy transformo en ideas, aportando soluciones innovadoras y creativas.
+
+Con más de dos años de experiencia en desarrollo web construyendo aplicaciones web y colaborando con empresas, agencias y emprendedores.
+
+Si buscas un profesional que piense como desarrollador, actúe como emprendedor y se comprometa como parte de tu equipo, aquí estoy. ¡Cuenta conmigo!
 
 ### 🛠️ Conjunto de Habilidades
 
