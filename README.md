@@ -2,7 +2,7 @@
 
 # Sobre Mi
 
-Mi nombre es Cristian Camilo Alzate Ramírez, desarrollador de software independiente. Aprendí de forma autodidacta y encontré en la tecnología, la informática y las matemáticas una pasión que hoy transformo en ideas, aportando soluciones digitales innovadoras.
+Mi nombre es Cristian Camilo Alzate Ramirez, desarrollador de software independiente. Aprendí de forma autodidacta y encontré en la tecnología, la informática y las matemáticas una pasión que hoy transformo en ideas, aportando soluciones digitales innovadoras.
 
 Con más de dos años de experiencia en desarrollo web construyendo aplicaciones web y colaborando con empresas, agencias y emprendedores. Si buscas un profesional que piense como desarrollador, actúe como emprendedor y se comprometa como parte de tu equipo, aquí estoy. ¡Cuenta conmigo!
 
