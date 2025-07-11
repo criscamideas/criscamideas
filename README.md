@@ -1,4 +1,4 @@
-<img src="./presentation.png" alt="Banner" width="100%" border-radius="12px">
+<img src="./banner-presentation.png" alt="Banner" width="100%">
 
 # Sobre Mi
 
