@@ -27,5 +27,4 @@ Si buscas un profesional que piense como desarrollador, actúe como emprendedor 
 - 🌍 [Sitio Web](https://criscamideas.com)  
 - 📨 [Email](mailto:ccalzateramirez@gmail.com)  
 
-### 🌱 “Construyo empresas, software y comunidad.” 🧑🏻‍💻🤝
 ✨ Gracias por visitar mi perfil, ¡el futuro se construye creando!
