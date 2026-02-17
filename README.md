@@ -1,5 +1,5 @@
-## Hola 👋
+### Hola 👋
 
-<img src="banner-github.png" />
+<img src="banner.png" />
 
 <strong>❯❯ Algunas de mis contribuciones recientes ↓</strong>
